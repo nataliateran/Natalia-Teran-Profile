@@ -1,5 +1,5 @@
 <details markdown="1"><summary>Blog Post 1</summary>
-  Blog Contents
+ 
 </# Discovering Open Source: “What is open source? What surprised me? Which well-known companies and projects use open source, and why does that matter?”
 
 ##### **What is open source?**
@@ -12,7 +12,7 @@ The fact that anything can be edited and redistributed by anyone is something th
 GitHub, Amazon and Meta use open source. This is important and matters because having things in this format means anyone can edit and change things freely. Being able to do this means there is no limit to when and where people can contribute to a big project. >
 
 <details markdown="1"><summary>Blog Post 2</summary>
-  Blog Contents
+  
 </##### blog prompt: “What I learned about Markdown and Git, and how they help me contribute to open source and improve professionally. Have you use them before? What surprised you about Markdown or Git?”
 
 ##### What I learned
@@ -25,13 +25,13 @@ I have never used this. It's all really new to me and even a little overwhelming
 Something I found surprising was that everyone has the ability to fork public content. >
 
 <details markdown="1"><summary>Blog Post 3</summary>
-  Blog Contents
+  
 </##### Blog Prompt: “How I chose a repository to explore and what I found interesting about its structure, community, and contribution process.”
 
 When choosing a repository to explore, the first thing I did was compile a mental list of my interests. Once that list was made, I narrowed it down to things other people might be able to contribute to. When I came across a repository called Foodium, I had found the repository I was going to analyze. Upon further inspection of this repository, I was interested to see how the community interacts. Although the repository was definitely in its prime a few years ago, seeing the owner take on the responsibility of commenting on issues soon after they were opened and answering any questions that came up. As for the structure of the repository, I was pleased to see it was easy to follow and that there were a bunch of beginner-friendly tags in the issues section. As part of the read-me section, there were clear instructions about how to contribute to the repository; this was also nice to see. >
 
 <details markdown="1"><summary>Blog Post 4</summary>
-  Blog Contents
+  
 </##### After exploring Reveal.js, describe how it’s structured, what it’s for, and what you found interesting about the way the project is documented and maintained. Could you imagine yourself contributing to this? Why or why not?
 
 After exploring this repository, I see that it is structured in an organized way. Above the read me, there is a nice, organized list with different things in the repository. In the read me, there is a clear description stating what the repository us about. Within this section, there are several hyperlinks with descriptions to the different features. Likewise, there are some tabs at the top with pull requests, issues, and other important aspects of the repository. 
@@ -44,16 +44,16 @@ The documentation of this repository is also organized and very detailed. Someth
 I could not imagine myself contributing ti this repository as i am not sure what I would contribute. However, the repository has clear instructions on how to contribute to the repository. >
 
 <details markdown="1"><summary>Blog Post 5</summary>
-  Blog Contents
-</###**Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).**
+  
+</### **Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).**
 
 I learned that MIT licenses are the most common license and they are also the shortest. When speaking, Mr. Mark said they are not very long in length and as a lawyer, that makes him upset haha. Both the MIU and BSD licenses allow reuse in proprietary and commercial software. In MIT licenses, it isn't clear if patent rights are waived or included, and in BSD licenses, the inclusion of a copyright notice is required, and advertising acknowledgements may be required as well. 
 
-#####**How did the Tetris movie shape your understanding of software ownership and distribution?**
+##### **How did the Tetris movie shape your understanding of software ownership and distribution?**
 
 The tetris movie was super interesting. I loved learning about what goes into software ownership. In the movie, when they were discussing who owned the game and who truly had the right to distribute it, there was a lot of blackmail involved as well as a bunch of legal issues. While I feel like most cases do not involve as much drama and violence, there is quite a bit that has to happen and be in place before a company can say they own a game.
 
-#####**What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?**
+##### **What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?**
 
 Something that surprised me was that if a student produces or invents something on the NIU campus, the student themself owns and has the rights to it. Of course, there are some limitations, such as the recourses used and whether or not the student is being paid to invent things, but most of the time, the student owns their own invention.
 
@@ -61,12 +61,12 @@ Something that surprised me was that if a student produces or invents something 
 
 Licensing can complicate open innovation as it can get very messy like it did in the movie. Sometimes if a company is trying to get a license, they might face a lot of hardships like fighting with another company to get a patent first. As discussed in class, it is a bit of a race. Whichever company is the first to the patent office and files it effectively "wins" the race. 
 
-#####**Bonus: Can you find and interpret the license used in a project you’re interested in contributing to?**
+##### **Bonus: Can you find and interpret the license used in a project you’re interested in contributing to?**
 
 The repository, verbecc (https://github.com/bretttolbert/verbecc?tab=LGPL-3.0-1-ov-file) has a LGPL license. This means the license is more lenient and has more permissions than a GPL license, but is not as lenient as a MIT license. >
 
 <details markdown="1"><summary>Blog Post 6</summary>
-  Blog Contents
+  
 </### Blog Prompt: “My experience participating in MLH Global Hack Week: what I learned, what I contributed, and who I connected with.”
 
 #### Write about:
