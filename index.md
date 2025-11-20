@@ -6,18 +6,18 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/[nataliateran]/[Natalia-Teran-Profile]/blob/main/assets/images/[1737668659799.jpg]?raw=true" width="50%" hspace="20" align="right">
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+My name is Natalia Teran, a chemistry major at Northern Illinois University
 
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
+I am a chemistry student with a strong desire to work in the pharmaceutical industry as a medicinal chemist. 
 
 ### Background
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+I am a chicagoland native and started at NIU in the fall of 2024. I come from a driven and successful family of NIU alumni. My family is very important to me; without them I would not be in the place that I am today. 
 
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
+Before coming to NIU, I was always interested in science, particularly chemistry. After just one high school chemistry course, I was completely captivated and wanted to learn more. Now, years later, as a chemostry student at NIU, my passion and desire to learn more has only grown. 
 
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+When I'm not in the classroom, I like helping and tutoring others in my job as a TA. In my free time, I can be found spending time with friends, watching TV, and crocheting. 
