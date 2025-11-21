@@ -6,7 +6,7 @@ email: "neteran246@gmail.com"
 url: "https://nataliateran.github.io"
 baseurl: "1737668659799.jpg"
 repository: "nataliateran/Natalia-Teran-Profile"
-header: "1737668659799.jpg"
+header: 
   image: "1737668659799.jpg"
 
 include:
