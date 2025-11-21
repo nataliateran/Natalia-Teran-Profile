@@ -36,15 +36,14 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast"
 
 # settings for author profile
-author:
+ author:
   name   : "Natalia Teran"
-  avatar : "header:
-  image: assets/images/1737668659799.jpg
+  avatar : assets/images/1737668659799.jpg
   bio    : "Natalia Teran - Driven chemistry major at NIU"
   location: "DeKalb, Illinois"
   github : nataliateran
-  linkedin: "https://www.linkedin.com/in/nataliateran/" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
-  email  : 
+  linkedin: "https://www.linkedin.com/in/nataliateran/"
+  email  :
 
 
 # # comments by disqus
