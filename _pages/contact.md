@@ -10,11 +10,11 @@ permalink: /contact/
 
 ### Campus Office
 Northern Illinois University  
-Out on the Field  
+Faraday Hall 247
 DeKalb, IL 60115-2825  
 
 ###### Office Hours:  
-by appointment
+Wednesday 9-10am
 
 ### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+![image of email](C:\Users\natal\Downloads\Designer.png)
