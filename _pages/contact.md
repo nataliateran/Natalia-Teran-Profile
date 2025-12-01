@@ -17,4 +17,4 @@ DeKalb, IL 60115-2825
 Wednesday 9-10am
 
 ### Email  
-[![image of email]({{ '/assets/images/Designer.png' | relative_url }})](https://github.com/nataliateran/Natalia-Teran-Profile/blob/cecedaad5a7f4acf4f5db102245d2f7d9aa1c094/Designer.png)
+1737668659799.jpg
