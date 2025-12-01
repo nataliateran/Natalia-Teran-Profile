@@ -17,4 +17,4 @@ DeKalb, IL 60115-2825
 Wednesday 9-10am
 
 ### Email  
-![image of email](C:\Users\natal\Downloads\Designer.png)
+![image of email]({{ '/assets/images/Designer.png' | relative_url }})
