@@ -8,7 +8,7 @@ baseurl: "1737668659799.jpg"
 repository: "nataliateran/Natalia-Teran-Profile"
 
 header: 
-  image: "1737668659799.jpg"
+image: "1737668659799.jpg"
 
 include:
   - _pages
