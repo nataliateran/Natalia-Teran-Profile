@@ -42,8 +42,8 @@ author:
   avatar : "1737668659799.jpg"
   bio    : "Natalia Teran - Driven chemistry major at NIU"
   location: "DeKalb, Illinois"
-  github : [GitHub](https://github.com/nataliateran)
-  linkedin: [Linkedin](https://webcourses.niu.edu/)
+  github : "https://github.com/nataliateran"
+  linkedin: "www.linkedin.com/in/nataliateran"
   email  : "neteran246@gmail.com"
 
 
