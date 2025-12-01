@@ -17,4 +17,4 @@ DeKalb, IL 60115-2825
 Wednesday 9-10am
 
 ### Email  
- image: "1737668659799.jpg"
+ Designer.jpg
