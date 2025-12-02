@@ -1,5 +1,17 @@
+---
+classes: wide
+header:
+  image: /assets/images/niubanner2.png
+permalink: /portfolio/index.html
+---
+
+# Research
+
+<h2 id="Blog Posts">Blog Posts</h2>
+The following are blog posts done in HON 310: 
+
 <details markdown="1"><summary>Blog Post 1</summary>
- 
+
 Discovering Open Source: “What is open source? What surprised me? Which well-known companies and projects use open source, and why does that matter?”
 
 ##### **What is open source?**
@@ -9,7 +21,7 @@ Open source is software that is freely available and editable to everyone. Anyon
 The fact that anything can be edited and redistributed by anyone is something that surprised me. The idea of producing something but having to accept that anyone can change it is interesting.
 
 ##### **Which well-known companies and projects use open source, and why does that matter?**
-GitHub, Amazon and Meta use open source. This is important and matters because having things in this format means anyone can edit and change things freely. Being able to do this means there is no limit to when and where people can contribute to a big project. >
+GitHub, Amazon and Meta use open source. This is important and matters because having things in this format means anyone can edit and change things freely. Being able to do this means there is no limit to when and where people can contribute to a big project. 
 
 <details markdown="1"><summary>Blog Post 2</summary>
   
@@ -57,7 +69,7 @@ The tetris movie was super interesting. I loved learning about what goes into so
 
 Something that surprised me was that if a student produces or invents something on the NIU campus, the student themself owns and has the rights to it. Of course, there are some limitations, such as the recourses used and whether or not the student is being paid to invent things, but most of the time, the student owns their own invention.
 
-#####**How do you think licensing empowers or complicates open innovation?**
+##### **How do you think licensing empowers or complicates open innovation?**
 
 Licensing can complicate open innovation as it can get very messy like it did in the movie. Sometimes if a company is trying to get a license, they might face a lot of hardships like fighting with another company to get a patent first. As discussed in class, it is a bit of a race. Whichever company is the first to the patent office and files it effectively "wins" the race. 
 
@@ -81,4 +93,42 @@ The repository, verbecc (https://github.com/bretttolbert/verbecc?tab=LGPL-3.0-1-
 
 3) The leader of the live stream I watched was a young lady named Varshini. She attends rice university and was very passionate about everything she was talking about. It was easy to see that she really enjoys working with repositories and wants other people to have the same positive experiences she does. From her, I learned about the public-apis repository (https://github.com/public-apis/public-apis). Varshini said that this repository was a good example of a well thought-out and well-organized repository and then proceeded to give everyone a detailed tour of it while explaining what everything was for. She explained the different types of licenses and what they all mean, focusing on the MIT license, as that was the license this repository has. 
 
-4) By the end of this live stream, we had talked about a lot of things previously mentioned in class, but in a different way. the way everything was discussed in this video was clear, detailed, and very beginner-friendly, which is something I really needed and appreciated. All in all, this experience shaped my view of open source collaboration in the sense that I now have a better idea of how everything works. After leaving the live stream yesterday, I am a lot more confident in my understanding of what different types of licenses mean, how to contribute to a repository, and most notably, how pull requests work and how to create them. 
+4) By the end of this live stream, we had talked about a lot of things previously mentioned in class, but in a different way. the way everything was discussed in this video was clear, detailed, and very beginner-friendly, which is something I really needed and appreciated. All in all, this experience shaped my view of open source collaboration in the sense that I now have a better idea of how everything works. After leaving the live stream yesterday, I am a lot more confident in my understanding of what different types of licenses mean, how to contribute to a repository, and most notably, how pull requests work and how to create them.
+
+<details markdown="1"><summary>Blog Post 7</summary>
+
+### What Counts as a Contribution in Open Source?
+Sometimes when people think of open source contributions, they might think about making a big change to an existing project. Speaking for myself, I am hesitant to contribute to a repo as I feel like I would mess something up and as a result of my attempt at contributing, the other involved in the repo would be upset. However, in reality, contributing can mean lots of things. Contributing to a repo come in many forms. A lot of them don't even involve any code, which is something else I'm not super confident in. 
+
+### Code vs. Non-Code Contributions
+Code contributions are essential as they build and maintain the core functionality of a project. But non-code contributions are just as valuable. Some examples of non-code contributions are:
+
+- Writing or improving documentation
+- Translating content for global accessibility
+- Designing diagrams or UI elements
+- Reporting bugs and suggesting features
+- Moderating discussions and helping newcomers
+- Creating tutorials or blog posts
+
+Each of these helps make a project more usable and accessible.
+
+### Diagrams
+Diagrams are powerful tools in open source. They help visualize complex systems, making it easier for contributors to understand architecture, data flow, or user interactions. A well-designed diagram can reduce onboarding time and improve collaboration between developers and non-developers alike. Instead of having to read through paragraphs and paragraphs of explanation, someone can take a look at a graph and from there, everything could seem simpler as diagrams help break things down. 
+
+### Communication & Collaboration
+Successful non-code contributions rely heavily on communication. Whether you're writing documentation, translating strings, or designing UI mockups, you need to collaborate with developers and other contributors. Clear communication ensures your work aligns with the project’s goals and integrates smoothly.
+Open source thrives on community. Respectful discussions, constructive feedback, and inclusive language create a welcoming environment for all contributors.
+
+### Non-Code Opportunities I Found
+While exploring the Mindustry project, I found several non-code contribution opportunities:
+
+### Translation: The project actively maintains a TRANSLATING.md file and welcomes help with localizing the game.
+Documentation: There are opportunities to improve clarity and expand the wiki or README.
+Design: UI/UX suggestions and diagrams could help new contributors understand the game’s architecture.
+Community Engagement: Feature requests and feedback are encouraged, which is a great way to contribute ideas and help shape the project.
+
+
+### Bonus: My Target Contribution
+The idea of contributing to a repository, for example, Mindustry (the repo I chose for M08) is intriguing. I can imagine someone could contribute by improving its documentation and creating diagrams that explain some more complicated tasks such as modding. This will help new contributors like me understand how to extend the game and encourage more community involvement.
+
+<details markdown="1"><summary>Blog Post 8</summary>
