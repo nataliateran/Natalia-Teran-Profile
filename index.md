@@ -5,7 +5,7 @@ header:
 ---
 # Welcome​
 
-<img src="https://github.com/nataliateran/Natalia-Teran-Profile/blob/305da3d77b6a951d4022141dcd0f73e2d8bc1044/1737668659799.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/nataliateran/Natalia-Teran-Profile/blob/305da3d77b6a951d4022141dcd0f73e2d8bc1044/1737668659799.jpg?raw=true" width="20%" hspace="10" align="right">
 
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
@@ -16,8 +16,10 @@ I am a chemistry student with a strong desire to work in the pharmaceutical indu
 
 ### Background
 
-I am a Chicagoland native and started at NIU in the fall of 2024. I come from a driven and successful family of NIU alumni. My family is very important to me; without them I would not be in the pl[...]
+I am a Chicagoland native and started at NIU in the fall of 2024. I come from a driven and successful family of NIU alumni. 
+My family is very important to me; without them I would not be where I am today. 
 
-Before coming to NIU, I was always interested in science, particularly chemistry. After just one high school chemistry course, I was completely captivated and wanted to learn more. Now, years late[...]
+Before coming to NIU, I was always interested in science, particularly chemistry. After just one high school chemistry course, I was completely captivated and wanted to learn more. 
+Now, years later, I am studying chemistry here at NIU with the same passion I discovered years ago. 
 
 When I'm not in the classroom, I like helping and tutoring others in my job as a TA. In my free time, I can be found spending time with friends, watching TV, and crocheting.
