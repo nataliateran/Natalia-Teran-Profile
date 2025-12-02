@@ -1,11 +1,12 @@
+---
 title: " "
 header:
   image: /assets/images/niubanner.png
 ---
-
 # Welcome​
 
-<img src="/assets/images/1737668659799.jpg" style="width:50%; float:right; margin-left:20px;" alt="Profile photo">
+<img src="https://github.com/nataliateran/Natalia-Teran-Profile/blob/305da3d77b6a951d4022141dcd0f73e2d8bc1044/1737668659799.jpg?raw=true" width="50%" hspace="20" align="right">
+
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
